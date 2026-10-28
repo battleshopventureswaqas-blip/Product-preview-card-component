@@ -55,7 +55,7 @@ Working through this challenge helped me solidify several core HTML and CSS conc
 ```
 ## Author
 
-- Frontend Mentor - [](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [Waqas ](https://www.frontendmentor.io/profile/yourusername)
 - Linkedin - [Waqas](https://www.linkedin.com/in/muhammad-waqas-siddique-9538213b7/)
 
 
