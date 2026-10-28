@@ -11,9 +11,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-  - [AI Collaboration](#ai-collaboration)
 - [Author](#author)
 
 ## Overview
@@ -27,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Design Preview](./design/desktop-design.jpg)
+![Desktop Design Preview](./desktop.png)
 
 ### Links
 
@@ -56,24 +53,9 @@ Working through this challenge helped me solidify several core HTML and CSS conc
   <img src="./images/image-product-mobile.jpg" alt="Gabrielle Essence Eau De Parfum bottle surrounded by green leaves">
 </picture>
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Link - [@yourusername](https://www.linkedin.com/in/muhammad-waqas-siddique-9538213b7/)
+- Frontend Mentor - [](https://www.frontendmentor.io/profile/yourusername)
+- Linkedin - [Waqas](https://www.linkedin.com/in/muhammad-waqas-siddique-9538213b7/)
 
 
