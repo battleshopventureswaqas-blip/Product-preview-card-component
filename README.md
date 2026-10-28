@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/battleshopventureswaqas-blip/product-preview-card-component)
-- Live Site URL: [Live Demo on GitHub Pages](https://battleshopventureswaqas-blip.github.io/product-preview-card-component/)
+- Solution URL: [GitHub Repository](https://github.com/battleshopventureswaqas-blip/Product-preview-card-component)
+- Live Site URL: [Live Demo on GitHub Pages](https://battleshopventureswaqas-blip.github.io/Product-preview-card-component/)
 
 ## My process
 
